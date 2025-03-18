@@ -1,17 +1,3 @@
-<div align="center">
-    <h1>📝 Default blocklist collection (Dnsmasq)</h1>
-    <p>
-        📄 » <b>Format: server=/domain.tld/</b><br>
-        📥 » <b>Last update: 11.03.2025 / DD.MM.YYYY</b><br>
-        ⭐ » <b>Mark this repository with a star if you find it useful.</b>
-    </p>
-</div>
-<h3 align="right">
-    <a href="https://sefinek.net/blocklist-generator/dnsmasq">🌍 Try blocklist generator on my website (recommended) »</a>
-</h3>
-<br>
-
-```
 https://blocklist.sefinek.net/generated/v1/dnsmasq/abuse/blocklistproject/hosts.fork.txt
 https://blocklist.sefinek.net/generated/v1/dnsmasq/abuse/urlhaus.abuse.ch/hostfile.fork.txt
 https://blocklist.sefinek.net/generated/v1/dnsmasq/ads/0Zinc/easylist.fork.txt
@@ -128,4 +114,3 @@ https://blocklist.sefinek.net/generated/v1/dnsmasq/tracking-and-telemetry/quidsu
 https://blocklist.sefinek.net/generated/v1/dnsmasq/tracking-and-telemetry/sefinek.hosts.txt
 https://blocklist.sefinek.net/generated/v1/dnsmasq/useless-websites/jarelllama/parked-domains.fork.txt
 https://blocklist.sefinek.net/generated/v1/dnsmasq/useless-websites/sefinek.hosts.txt
-```
